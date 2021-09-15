@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Bình luận cho Phúc Nguyễn	</title>
-	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://nhozvip98765.github.io/mywordpress</link>
+	Các phản hồi luận về: Top 5 trò chơi gắn liền với tuổi thơ 8x,9x	</title>
+	<atom:link href="http://localhost/myproject/wordpress/top-5-tro-choi-gan-lien-voi-tuoi-tho-8x9x/feed/" rel="self" type="application/rss+xml" />
+	<link>http://nhozvip98765.github.io/mywordpress/top-5-tro-choi-gan-lien-voi-tuoi-tho-8x9x/</link>
 	<description></description>
 	<lastBuildDate>Wed, 15 Sep 2021 00:09:08 +0000</lastBuildDate>
 	<sy:updatePeriod>
