@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Game &#8211; Phúc Nguyễn</title>
+	<atom:link href="http://localhost/myproject/wordpress/category/game/feed/" rel="self" type="application/rss+xml" />
+	<link>http://nhozvip98765.github.io/mywordpress</link>
+	<description></description>
+	<lastBuildDate>Wed, 01 Sep 2021 01:54:57 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Top 5 tựa game hành động phiêu lưu trên PC</title>
+		<link>http://nhozvip98765.github.io/mywordpress/top-5-tua-game-hanh-dong-phieu-luu-tren-pc/</link>
+					<comments>http://nhozvip98765.github.io/mywordpress/top-5-tua-game-hanh-dong-phieu-luu-tren-pc/#respond</comments>
+		
+		<dc:creator><![CDATA[Phúc Nguyễn]]></dc:creator>
+		<pubDate>Mon, 30 Aug 2021 01:15:35 +0000</pubDate>
+				<category><![CDATA[Game]]></category>
+		<guid isPermaLink="false">http://nhozvip98765.github.io/mywordpress/?p=69</guid>
+
+					<description><![CDATA[Nếu anh em là tín đồ của thể loại game phiêu lưu, hành động, khám phá&#8230; thì chắc chắn không thể bỏ qua 5 cái tên vô cùng đình đám này rồi. Với sự phát triển chóng mặt của ngành game, rất nhiều trò chơi đã tận dụng sức mạnh đến từ yếu tố&#160; công nghệ, engine&#8230; để biến những trò chơi trong thể loại phiêu lưu nhà động thành những bom tấn để đời. Chẳng hạn, trong các tựa...<p class="read-more"><a class="btn btn-default" href="http://nhozvip98765.github.io/mywordpress/top-5-tua-game-hanh-dong-phieu-luu-tren-pc/">Đọc Thêm<span class="screen-reader-text"> Đọc Thêm</span></a></p>]]></description>
+		
+					<wfw:commentRss>http://nhozvip98765.github.io/mywordpress/top-5-tua-game-hanh-dong-phieu-luu-tren-pc/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
