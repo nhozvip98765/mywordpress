@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Chuột &#8211; Phúc Nguyễn</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/chuot/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nhozvip98765.github.io/mywordpress</link>
+	<description></description>
+	<lastBuildDate>Sun, 26 Sep 2021 09:36:51 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Chuột + Bàn phím game Zadez</title>
+		<link>https://nhozvip98765.github.io/mywordpress/sản%20phẩm/chuot-ban-phim-game-zadez/</link>
+					<comments>https://nhozvip98765.github.io/mywordpress/sản%20phẩm/chuot-ban-phim-game-zadez/#respond</comments>
+		
+		<dc:creator><![CDATA[Phúc Nguyễn]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 09:36:49 +0000</pubDate>
+				<guid isPermaLink="false">https://nhozvip98765.github.io/mywordpress/?post_type=product&#038;p=223</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>https://nhozvip98765.github.io/mywordpress/sản%20phẩm/chuot-ban-phim-game-zadez/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chuột game có dây Zadez G156M</title>
+		<link>https://nhozvip98765.github.io/mywordpress/sản%20phẩm/chuot-game-co-day-zadez-g156m/</link>
+					<comments>https://nhozvip98765.github.io/mywordpress/sản%20phẩm/chuot-game-co-day-zadez-g156m/#respond</comments>
+		
+		<dc:creator><![CDATA[Phúc Nguyễn]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 09:27:02 +0000</pubDate>
+				<guid isPermaLink="false">https://nhozvip98765.github.io/mywordpress/?post_type=product&#038;p=217</guid>
+
+					<description><![CDATA[Chiều dài dây 1,5m Độ phân giải 7200dpi Kết nối USB Khoảng cách tối đa 1.5m Loại chuột Gaming]]></description>
+		
+					<wfw:commentRss>https://nhozvip98765.github.io/mywordpress/sản%20phẩm/chuot-game-co-day-zadez-g156m/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
