@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Phúc Nguyễn &#8211; Phúc Nguyễn</title>
+	<title>Phúc Nguyễn &#8211; YamiShop</title>
 	<atom:link href="http://localhost/myproject/wordpress/author/nguyentrongphuc/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nhozvip98765.github.io/mywordpress</link>
-	<description></description>
-	<lastBuildDate>Wed, 15 Sep 2021 00:09:08 +0000</lastBuildDate>
+	<description>Shop bán hàng của 1 sinh viên gà mờ</description>
+	<lastBuildDate>Fri, 15 Oct 2021 08:06:37 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,23 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
+		<title>TOP 6 điện thoại gaming tốt nhất năm 2021</title>
+		<link>https://nhozvip98765.github.io/mywordpress/top-6-dien-thoai-gaming-tot-nhat-nam-2021/</link>
+					<comments>https://nhozvip98765.github.io/mywordpress/top-6-dien-thoai-gaming-tot-nhat-nam-2021/#respond</comments>
+		
+		<dc:creator><![CDATA[Phúc Nguyễn]]></dc:creator>
+		<pubDate>Fri, 15 Oct 2021 07:39:42 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://nhozvip98765.github.io/mywordpress/?p=317</guid>
+
+					<description><![CDATA[Smartphone&#160;dường như là thiết bị không thể thiếu trong mọi hoạt động hằng ngày của chúng ta hiện nay. Bên cạnh chức năng chính là nghe, gọi, nhắn tin thì smartphone trở thành một thiết bị giải trí hữu dụng. Những smartphone với hiệu năng khủng không khác gì máy chơi game cầm tay cả. [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://nhozvip98765.github.io/mywordpress/top-6-dien-thoai-gaming-tot-nhat-nam-2021/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Top 5 tựa game hành động phiêu lưu trên PC</title>
 		<link>https://nhozvip98765.github.io/mywordpress/top-5-tua-game-hanh-dong-phieu-luu-tren-pc/</link>
 					<comments>https://nhozvip98765.github.io/mywordpress/top-5-tua-game-hanh-dong-phieu-luu-tren-pc/#respond</comments>

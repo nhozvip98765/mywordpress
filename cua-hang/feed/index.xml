@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Sản phẩm &#8211; Phúc Nguyễn</title>
+	<title>Sản phẩm &#8211; YamiShop</title>
 	<atom:link href="http://localhost/myproject/wordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nhozvip98765.github.io/mywordpress</link>
-	<description></description>
-	<lastBuildDate>Mon, 27 Sep 2021 01:58:54 +0000</lastBuildDate>
+	<description>Shop bán hàng của 1 sinh viên gà mờ</description>
+	<lastBuildDate>Thu, 14 Oct 2021 06:42:37 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>

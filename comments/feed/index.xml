@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Bình luận cho Phúc Nguyễn	</title>
+	Bình luận cho YamiShop	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nhozvip98765.github.io/mywordpress</link>
-	<description></description>
-	<lastBuildDate>Tue, 28 Sep 2021 09:40:03 +0000</lastBuildDate>
+	<description>Shop bán hàng của 1 sinh viên gà mờ</description>
+	<lastBuildDate>Fri, 15 Oct 2021 08:06:37 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

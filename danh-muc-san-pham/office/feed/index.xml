@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Office &#8211; Phúc Nguyễn</title>
+	<title>Office &#8211; YamiShop</title>
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/office/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nhozvip98765.github.io/mywordpress</link>
-	<description></description>
-	<lastBuildDate>Sun, 26 Sep 2021 09:44:07 +0000</lastBuildDate>
+	<description>Shop bán hàng của 1 sinh viên gà mờ</description>
+	<lastBuildDate>Thu, 14 Oct 2021 06:41:41 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
